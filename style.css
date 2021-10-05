@@ -1,0 +1,13 @@
+body{
+    min-height: 3000px;
+}
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #aef0d1;
+}
+#galery{
+    background-color: #aef0d1;
+}
+section{
+    padding-top: 6rem;
+}
